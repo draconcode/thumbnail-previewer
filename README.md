@@ -1,4 +1,4 @@
 # thumbnail-previewer
 
 # Link to project
-https://draconcode.github.io/thumbnail-previewer
+<a href="https://draconcode.github.io/thumbnail-previewer" target="_blank">thumbnail-previewer</a>
